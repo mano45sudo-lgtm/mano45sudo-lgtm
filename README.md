@@ -26,13 +26,6 @@ Design engineer. I design interfaces and then build them myself, so nothing gets
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Things I'm building:
-
-- **[minimi](https://github.com/mano45sudo-lgtm/minimi-chat-agent)**: a chat assistant that searches the web and remembers what you talked about, and when
-- **[BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together)**: a team workspace where conversations turn into tasks
-- **[Datalake FaceAuth](https://github.com/mano45sudo-lgtm/Datalake-FaceAuth)**: offline face authentication and attendance, on device
-- **[TalentIQ](https://github.com/mano45sudo-lgtm/resume_analyzer)**: resume parsing and candidate scoring for hiring teams
-
 ### GitHub Stats:
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=mano45sudo-lgtm&show_icons=true&custom_title=Manokarthik's%20GitHub%20Stats&bg_color=151515&title_color=ffffff&text_color=a3a3a3&icon_color=4ade80&ring_color=d4d4d4&border_color=d4d4d4&border_radius=6" alt="GitHub stats" />
