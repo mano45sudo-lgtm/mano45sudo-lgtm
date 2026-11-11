@@ -6,7 +6,7 @@ I'm a design engineer, which mostly means I can't leave a design alone until it'
 
 If something's off by 1px, I will find it :)
 
-**Currently:** building [BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together), a team workspace where conversations turn into actual work<br/>
+**Currently:** building [Cue](https://cue-hq.vercel.app/), where team conversations, decisions and work finally live in one place<br/>
 **Into:** dark interfaces, pixel art, and type that's spaced just right<br/>
 **Ask me about:** turning a messy Figma file into clean, reusable components<br/>
 **Fun fact:** my avatar is a hamster with a gun. It was a design decision.
