@@ -1,45 +1,44 @@
-<img src="./assets/header.svg" width="100%" alt="Manokarthik, design engineer" />
+<img src="./assets/banner.svg" width="100%" alt="" />
 
-<br/>
+## Hi, I'm Manokarthik
 
-<img src="./assets/s-about.svg" width="100%" alt="01 About" />
+Design engineer. I design interfaces and then build them myself, so nothing gets lost between the mockup and the product. Most days that means Figma in one window and React in the other.
 
-I design interfaces and then build them myself, so nothing gets lost between the mockup and the product. Most days that means Figma in one window and React in the other.
+### Socials:
 
-Right now I'm working on **[minimi](https://github.com/mano45sudo-lgtm/minimi-chat-agent)**, a chat assistant that searches the web and remembers what you talked about, and when.
+<a href="https://www.linkedin.com/in/m-mano-karthik-a82b51376"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222" alt="LinkedIn" /></a>
+<a href="mailto:mano45sudo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Gmail" /></a>
 
-<br/>
+### Stack I use:
 
-<img src="./assets/s-work.svg" width="100%" alt="02 Work" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p>
-<a href="https://github.com/mano45sudo-lgtm/minimi-chat-agent"><img src="./assets/work-minimi.svg" width="49%" alt="minimi" /></a>
-<a href="https://github.com/mano45sudo-lgtm/Build_Together"><img src="./assets/work-buildtogether.svg" width="49%" alt="BuildTogether" /></a>
-<a href="https://github.com/mano45sudo-lgtm/Datalake-FaceAuth"><img src="./assets/work-faceauth.svg" width="49%" alt="Datalake FaceAuth" /></a>
-<a href="https://github.com/mano45sudo-lgtm/resume_analyzer"><img src="./assets/work-talentiq.svg" width="49%" alt="TalentIQ" /></a>
+### Things I'm building:
+
+- **[minimi](https://github.com/mano45sudo-lgtm/minimi-chat-agent)**: a chat assistant that searches the web and remembers what you talked about, and when
+- **[BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together)**: a team workspace where conversations turn into tasks
+- **[Datalake FaceAuth](https://github.com/mano45sudo-lgtm/Datalake-FaceAuth)**: offline face authentication and attendance, on device
+- **[TalentIQ](https://github.com/mano45sudo-lgtm/resume_analyzer)**: resume parsing and candidate scoring for hiring teams
+
+### GitHub Stats:
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mano45sudo-lgtm&show_icons=true&custom_title=Manokarthik's%20GitHub%20Stats&bg_color=151515&title_color=ffffff&text_color=a3a3a3&icon_color=4ade80&ring_color=d4d4d4&border_color=d4d4d4&border_radius=6" alt="GitHub stats" />
+
+<img src="https://streak-stats.demolab.com?user=mano45sudo-lgtm&background=151515&border=d4d4d4&border_radius=6&stroke=333333&ring=d4d4d4&fire=4ade80&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=737373" alt="GitHub streak" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mano45sudo-lgtm&label=PROFILE%20VIEWS&color=333333&style=for-the-badge&labelColor=555555" alt="Profile views" />
 </p>
-
-<br/>
-
-<img src="./assets/s-tools.svg" width="100%" alt="03 Tools" />
-
-<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,tailwind,nodejs,python,git,github,vscode,vercel&theme=dark&perline=12" alt="Figma, React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Python, Git, GitHub, VS Code, Vercel" />
-
-<br/>
-
-<img src="./assets/s-activity.svg" width="100%" alt="04 Activity" />
-
-<p>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mano45sudo-lgtm&show_icons=true&hide_border=true&hide_title=true&hide_rank=false&bg_color=000000&text_color=8c8c8c&icon_color=f2f2f2&ring_color=f2f2f2&title_color=f2f2f2&border_radius=10&card_width=400" height="160" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=mano45sudo-lgtm&hide_border=true&border_radius=10&background=000000&stroke=1f1f1f&ring=f2f2f2&fire=e5372b&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=8c8c8c&dates=4a4a4a" height="160" alt="Contribution streak" />
-</p>
-
-<br/>
-
-<img src="./assets/s-contact.svg" width="100%" alt="05 Contact" />
-
-[GitHub](https://github.com/mano45sudo-lgtm) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-mano-karthik-a82b51376) &nbsp;·&nbsp; [Email](mailto:mano45sudo@gmail.com)
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
