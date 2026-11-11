@@ -6,7 +6,7 @@ I'm a design engineer, which mostly means I can't leave a design alone until it'
 
 Lately I've been building with AI: a chat assistant that actually remembers what you told it last week, and a face-auth app that works with zero internet. I like products that feel simple once they're done, even when getting there wasn't.
 
-**Currently:** building [minimi](https://github.com/mano45sudo-lgtm/minimi-chat-agent), a chat agent with a memory<br/>
+**Currently:** building [BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together), a team workspace where conversations turn into actual work<br/>
 **Into:** dark interfaces, pixel art, and type that's spaced just right<br/>
 **Ask me about:** turning a messy Figma file into clean, reusable components<br/>
 **Fun fact:** my avatar is a hamster with a gun. It was a design decision.
