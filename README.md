@@ -4,7 +4,7 @@
 
 I'm a design engineer, which mostly means I can't leave a design alone until it's real. I sketch it in Figma, build it in React, then spend way too long fixing spacing nobody asked me to fix.
 
-I sweat the small stuff, because nobody notices it until it's wrong.
+If something's off by 1px, I will find it :)
 
 **Currently:** building [BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together), a team workspace where conversations turn into actual work<br/>
 **Into:** dark interfaces, pixel art, and type that's spaced just right<br/>
