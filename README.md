@@ -4,7 +4,7 @@
 
 I'm a design engineer, which mostly means I can't leave a design alone until it's real. I sketch it in Figma, build it in React, then spend way too long fixing spacing nobody asked me to fix.
 
-Most of my time goes into the small stuff: how a button feels when you press it, how a page loads in, whether an empty screen says something useful or just sits there. Nobody notices when it's right, and that's the point. I like products that feel simple once they're done, even when getting there wasn't.
+I sweat the small stuff, because nobody notices it until it's wrong.
 
 **Currently:** building [BuildTogether](https://github.com/mano45sudo-lgtm/Build_Together), a team workspace where conversations turn into actual work<br/>
 **Into:** dark interfaces, pixel art, and type that's spaced just right<br/>
