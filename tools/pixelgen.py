@@ -372,7 +372,7 @@ if __name__ == "__main__":
     for f in os.listdir(OUT):
         if f.endswith(".svg"):
             os.remove(os.path.join(OUT, f))
-    files = {"header.svg": header(), "footer.svg": footer(), "tools.svg": tools()}
+    files = {"header.svg": header(), "footer.svg": footer()}
     for i, name in enumerate(SECTIONS, 1):
         files[f"s-{name.lower()}.svg"] = section(i, name)
     for i, (fid, *rest) in enumerate(PROJECTS, 1):

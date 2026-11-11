@@ -23,7 +23,7 @@ Right now I'm working on **[minimi](https://github.com/mano45sudo-lgtm/minimi-ch
 
 <img src="./assets/s-tools.svg" width="100%" alt="03 Tools" />
 
-<img src="./assets/tools.svg" width="100%" alt="Figma, React, Next.js, TypeScript, Tailwind, Node.js, Python, React Native" />
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,tailwind,nodejs,python,git,github,vscode,vercel&theme=dark&perline=12" alt="Figma, React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Python, Git, GitHub, VS Code, Vercel" />
 
 <br/>
 
